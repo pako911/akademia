@@ -1,0 +1,8 @@
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\bin\Debug\Dziennik_ocen.exe.config
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\bin\Debug\Dziennik_ocen.exe
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\bin\Debug\Dziennik_ocen.pdb
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\obj\Debug\Dziennik_ocen.csprojResolveAssemblyReference.cache
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\obj\Debug\Dziennik_ocen.exe
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\obj\Debug\Dziennik_ocen.pdb
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\bin\Debug\Newtonsoft.Json.dll
+c:\users\pako9_000\documents\visual studio 2015\Projects\Dziennik_ocen\Dziennik_ocen\bin\Debug\Newtonsoft.Json.xml
